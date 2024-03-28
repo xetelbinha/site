@@ -1,0 +1,70 @@
+body {
+    background-image: url('../imagens/untitled.png');
+    background-size: cover;
+    background-position: center;
+}
+
+.titulo-principal {
+    color: blue;
+    font-size: 100px;
+    font-weight: bold;
+    text-align: center;
+    font-family: "Reddit Mono", monospace;
+    user-select: none;
+    border: 2px solid rgb(255, 255, 255);
+    background-image: url('../imagens/pavement_tiles.jpg');
+    width: 1000px;
+    -webkit-background-clip: text;
+    background-clip: text;
+    color:transparent
+}
+
+.descricao {
+    color: rgb(199, 199, 199);
+    font-size: 20px;
+    font-family: "Reddit Mono", monospace;
+    user-select: none;
+    margin-left: 100px;
+}
+
+.botoes {
+    font-size: 20px;
+    font-family: "Reddit Mono", monospace;
+    text-align: right;
+}
+
+.botao_weirdcore {
+    display: block;
+    color: rgb(199, 199, 199);
+    text-decoration: none;
+    border: 2px solid rgb(255, 255, 255);
+    padding: 10px 20px;
+    margin-bottom: 10px;
+    width: 100px;
+    margin-left: auto;
+}
+
+.botao_dreamcore {
+    display: block;
+    color: rgb(199, 199, 199);
+    text-decoration: none;
+    border: 2px solid rgb(255, 255, 255);
+    padding: 10px 20px;
+    margin-bottom: 10px;
+    width: 100px;
+    margin-left: auto;
+}
+
+.botao_voidcore {
+    display: block;
+    color: rgb(199, 199, 199);
+    text-decoration: none;
+    border: 2px solid rgb(255, 255, 255);
+    padding: 10px 20px;
+    margin-bottom: 10px;
+    width: 100px;
+    margin-left: auto;
+}
+
+
+
